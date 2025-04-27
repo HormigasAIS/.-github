@@ -21,6 +21,3 @@ Este repositorio contiene una serie de herramientas y flujos de trabajo enfocado
 
 ## Licencia
 Este repositorio está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
-Con estos ajustes, el README.md estará mejor estructurado y alineado con la visión de HormigasAIS. ¡Espero que te funcione! ¿Te gustaría hacer algún cambio adicional o agregar más detalles?
-
