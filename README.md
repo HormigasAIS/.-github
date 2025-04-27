@@ -1,5 +1,3 @@
-¡Claro! Aquí tienes el texto listo para copiar y pegar:
-
 # HormigasAIS: Open Lab para la Innovación en IA y Automatización
 
 Este repositorio es parte del ecosistema **HormigasAIS**, donde la inteligencia artificial, la automatización y el marketing digital convergen para formar soluciones innovadoras. Aquí encontrarás herramientas, flujos personalizados y experimentos colaborativos para mejorar procesos mediante el poder de la IA.
@@ -20,4 +18,4 @@ Este repositorio contiene una serie de herramientas y flujos de trabajo enfocado
 **¡Contribuye al ecosistema HormigasAIS!** Si eres desarrollador, creativo, o simplemente tienes curiosidad sobre el impacto de la inteligencia artificial en el marketing y la automatización, te invitamos a explorar y contribuir a este proyecto. ¡Juntos podemos transformar el futuro!
 
 ## Licencia
-Este repositorio está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este repositorio está bajo la licencia MIT.
