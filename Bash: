@@ -1,2 +1,15 @@
-mkdir docs
-mkdir meta
+# Crear las carpetas
+mkdir docs meta
+
+# Crear los archivos .gitkeep en cada carpeta
+touch docs/.gitkeep
+touch meta/.gitkeep
+
+# Agregar todo a git
+git add .
+
+# Hacer commit con mensaje
+git commit -m "Agrega carpetas docs y meta con .gitkeep"
+
+# Subir los cambios al repositorio remoto
+git push
